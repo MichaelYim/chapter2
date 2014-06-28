@@ -1,5 +1,5 @@
-# Load the Rails application.
+# Load the Chapter2::Application.
 require File.expand_path('../application', __FILE__)
 
-# Initialize the Rails application.
-Rails.application.initialize!
+# Initialize the Chapter2::Application.
+Chapter2::Application.initialize!

@@ -1,0 +1,1 @@
+Chapter2::Application.config.secret_key_base = '3df9e8745879bd8ab714aee0c0d88c8105a07a7456422b2a640d4e8d352b3b4d9a3a12010b4d3ba81699796a0f34fe5119af518c82132217a8de6b5bdf0e43c4'
